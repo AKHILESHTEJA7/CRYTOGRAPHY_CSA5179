@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AKHILESH TEJA</h1>
-<h3 align="center">𝒀𝑶𝑼𝑹 𝑰𝑵 𝑫𝑨𝑻𝑨 𝘾𝙍𝙔𝙏𝙊𝙂𝙍𝘼𝙋𝙃𝙔,𝑷𝑳𝑨𝑺𝑬 𝑪𝑯𝑬𝑪𝑲 𝑰𝑵.</h3>
+<h3 align="center">𝒀𝑶𝑼𝑹 𝑰𝑵 𝑪𝑹𝒀𝑷𝑻𝑶𝑮𝑹𝑨𝑷𝑯𝒀, 𝑷𝑳𝑬𝑨𝑺𝑬 𝑪𝑯𝑬𝑪𝑲 𝑰𝑵</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
